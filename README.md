@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag-4508" alt="anurag-4508" /></a> </p>
 
-- 🔭 I’m currently working on **python projects**
+- 🔭 I’m currently working on **MERN & python projects**
 
 - 🌱 I’m currently learning **Python backend**
 
-- 👨‍💻 All of my projects are available at [https://anuragmandloi.me/](https://anuragmandloi.me/)
+- 👨‍💻 All of my projects are available at [https://anuragmandloi.netlify.app/](https://anuragmandloi.netlify.app/)
 
-- 💬 Ask me about **flask, RESTapi, MERN**
+- 💬 Ask me about **MERN, flask, RESTapi**
 
 - 📫 How to reach me **anuragmandloi30@gmail.com**
 
