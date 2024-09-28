@@ -1,7 +1,10 @@
-[![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1380)](https://anuragmandloi.me)
+
+[![An image of @anurag4508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anurag4508)](https://holopin.io/@anurag4508)
+
 <h1 align="center">Hi 👋, I'm Anurag Mandloi</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-4508&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-4508" /> </p>
